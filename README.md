@@ -27,7 +27,7 @@ This project analyzes return patterns in 49,000+ e-commerce orders using **pure 
 
 ## Project Structure
 
-- `dataset/` → Source CSV file  
+- online_sales_dataset.csv → Source CSV file  
 - https://www.canva.com/design/DAGr8SLx4qs/GV8j-ts6scUN4daritqmMw/view?utm_content=DAGr8SLx4qs&utm_campaign=designshare&utm_medium=link2&utm_source=uniquelinks&utlId=h89f6fe7000 → Project Presentation
 
 ---
